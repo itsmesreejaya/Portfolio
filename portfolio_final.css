@@ -1,0 +1,102 @@
+.body {
+    display: flex;
+    width: 70%;
+    margin-left: 10%;    
+}
+.left-column{
+    margin-left: 40px;
+    flex:1;
+    background-color:black;                                                       
+    color: white;
+}
+.right-column{
+    flex:5;
+    background-color: white;
+}
+.profile-image {
+    margin: 1%;
+    padding: 1%;
+}
+
+.edContent{
+    padding-left: 20px;
+    background-color: orange;
+}
+.skills hr{
+    height:2px;
+    background-color: grey;
+        border: none;
+}
+.graphout{
+    display: flex;
+    height: 4px;
+    background-color:orange;
+    width:100%;
+
+ }
+ .graphdata1{
+    height:4px;
+    background-color: #303030;
+    width:70%;
+
+ }
+ .graphdata2{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:60%;
+
+ }
+ .graphdata3{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:30%;
+
+ }
+ .graphdata4{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:85%;
+
+ }
+ .graphdata5{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:50%;
+
+ }
+ .graphdata6{
+    flex:5;
+    height:4px;
+    background-color: #303030;
+    width:75%;
+
+ }
+ .first-name{
+    font-size:xx-large;
+    font-weight: 700;
+     }
+    
+
+ .second-name{
+    font-size:xx-large;
+    font-weight: 400; }
+
+.name-title{
+    font-size:x-large;
+    font-weight: 400; }
+.para-white{
+    background-color: white;
+}
+.para-white{
+    background-color: white;
+}
+.heading-white{
+    background-color: white;
+}
+.Reference{
+    text-size-adjust: 30%;
+}
